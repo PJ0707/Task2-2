@@ -1,0 +1,16 @@
+.my-flex-container{
+	border: 5px solid darkred;
+	border-width: thick;
+	height: 400px;
+	width: 400px;
+	image-rendering: pixelated;
+	padding: 30px;
+}
+.my-flex-item{
+	border: 100px dotted darkred;
+	height: 400px;
+	width: 400px;
+	border-width: thick;
+	font-family: cursive;
+	image-rendering: pixelated;
+}
